@@ -1,23 +1,5 @@
 fun main() {
 
-    // WIEDERHOLUNG: TYPE CONVERSION
-//
-//    var intValue = "1"
-//    var intConverted = intValue.toDouble() // 1.0
-//    println(intValue.toDouble())
-//    println(intConverted)
-//    println(intValue)
-//
-//    // String Variante
-//
-//    var stringValue = "25.5"
-//    println(stringValue + 5) // 25.55
-//    var stringConverted = stringValue.toDouble() + 5 // 25.5 + 5 = 30.5
-//    println(stringConverted) // 30.5
-//    println(stringValue)
-//
-//    println(intValue + stringConverted) // 130.5
-//    println(intConverted + stringConverted) // 1 + 30.5 = 31.5
 
 
     // NEU: STRING-OPERATIONEN
@@ -40,24 +22,3 @@ fun main() {
 
 
 }
-
-
-
-
-
-
-
-
-//
-//    // Bonus: Funktionen für die, die schonmal schauen wollen
-//    var meinAlter = rechneMeinAlterAus(2023,1999)
-//    var deinAlter = rechneMeinAlterAus(2023,1986)
-//    var meinHundAlter = rechneMeinAlterAus(2023, 2015)
-//    println("Ich bin $meinAlter Jahre alt.")
-//
-//}
-//
-//fun rechneMeinAlterAus(x: Int, y: Int) {
-//    // Funktionalität, in der aktuelles Jahr von Geburtsjahr abgezogen wird
-//    println(x-y)
-//}
